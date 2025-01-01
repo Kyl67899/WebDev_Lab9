@@ -24,7 +24,6 @@ Repo Link
 Live Link
 You do NOT need to submit an HTML validation or a comparison image.
 
-
 # Illnois Tech Web Development Projects
 
 | Project Name | Level | Recommended Tech | Link/Status
